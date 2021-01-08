@@ -1,0 +1,34 @@
+table {
+    width: 60%;
+    border: 1px solid #ccc;
+    border-collapse: collapse;
+    border-radius: 20px 20px 20px 20px;
+    height: 150px;
+    line-height: 1.5;
+    margin: 20px 10px;
+    overflow: hidden;
+  }
+  table thead {
+    border-right: 1px solid #ccc;
+    border-left: 1px solid #ccc;
+    background: #6e9ced;
+  }
+  table thead th {
+    padding: 10px;
+    font-weight: bold;
+    vertical-align: top;
+    color: #fff;
+  }
+  tbody th, td {
+    border-bottom: 1px solid #ccc;
+    padding: 10px;
+    font-weight: bold;
+    vertical-align: top;
+    background: #b3c6e8;
+  }
+
+#book { position:relative; display: flex; justify-content: center; align-items: center; padding: 22px;}
+#text-center { text-align: center; }
+#text-right { text-align: right; }
+
+#books_check h2 { font-size: 24px; padding-top: 10px; padding-bottom: 5px; border-bottom: solid 1px #dddddd; text-align: center; width:158px; margin:5px auto;}
