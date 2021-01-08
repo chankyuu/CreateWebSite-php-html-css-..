@@ -1,0 +1,7 @@
+#reservation_box { width: 429px; margin: 0 auto; }
+#reservation_title { margin: 50px 0 0 0; padding-bottom: 5px; text-align:center;}
+#reservation_title span {	font-size: 20px; font-weight: bold; }
+#reservation_form { margin: 20px 0px; text-align: center; border:solid 7px #ffbe10;}
+#reservation_form li { margin-top: 25px; text-align: center; font-size:17px;}
+#reservation_form input {	width: 29%; height: 25px; }
+#reservation_form #reservation_btn { margin-top: 15px; margin-bottom: 10px; text-align: center; }
